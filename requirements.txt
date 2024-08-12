@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+exa_py
+langchain_anthropic
+poetry
+langchain_groq
+streamlit
+langchain_google_genai

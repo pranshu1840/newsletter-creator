@@ -1,0 +1,12 @@
+services:
+  newsletter-generator-crewai:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    command: ["streamlit", "run", "src/gui/app.py"]
