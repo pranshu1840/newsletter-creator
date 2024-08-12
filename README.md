@@ -1,4 +1,4 @@
-# Newsletter Generator CrewAI with GUI
+# Newsletter Creator CrewAI with GUI
 
 Welcome to the Newsletter Generator CrewAI project, powered by [crewAI](https://crewai.com). This template facilitates the setup of a multi-agent AI system, utilizing crewAI's robust and versatile framework. Our aim is to empower your agents to work together seamlessly on intricate tasks, enhancing their combined intelligence and effectiveness.
 
